@@ -4,3 +4,4 @@ world
 prompt engineer 
 lovable
 developer
+fullstack
