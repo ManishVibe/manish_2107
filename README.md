@@ -5,3 +5,4 @@ prompt engineer
 lovable
 developer
 fullstack
+bro
